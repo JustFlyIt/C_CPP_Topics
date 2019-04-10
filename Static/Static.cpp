@@ -1,5 +1,5 @@
 //============================================================================
-// Name        : static.cpp
+// Name        : Static.cpp
 // Author      : DRS
 // Version     :
 // Copyright   : Free to the World

@@ -1,16 +1,12 @@
 //============================================================================
-// Name        : main.cpp
+// Name        : GlobalStatic.cpp
 // Author      : DRS
 // Version     :
 // Copyright   : Free to the World
 // Description : Demonstrate the use and effect of the static keyword.
 //
-//               Different contexts are shown:
-//                    static outside of a class
-//                    static within a class
-//                    static for a local function variable
+//               Context: global static, variables and functions
 //============================================================================
-
 #include <iostream>
 
 // Same name as a variable in static.cpp; but a different value.
