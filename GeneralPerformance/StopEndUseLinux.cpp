@@ -6,6 +6,8 @@
 // Description : Stop using "endl".  It includes a performance busting
 //               flush() operation everytime.
 //               std::endl = '\n' << flush  // Is flush really needed?
+//
+//             Work in progress.
 //============================================================================
 
 #include <iostream>
