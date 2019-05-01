@@ -8,8 +8,6 @@
 		  The primary demonstration is the calling a std::thread operation...providing
 		  three different examples on how to call the std::thread.
 
-		  NOTE THE LAMBDA EXPRESSION USE AS THE THIRD EXAMPLE FOR STARTING A std::thread
-
 	Credit:  The foundation of this example is found here -
 			http://www.cplusplus.com/doc/tutorial/pointers/
 */
