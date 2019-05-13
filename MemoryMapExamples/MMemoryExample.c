@@ -22,7 +22,7 @@
 #include <string.h>
 
 int main(void) {
-	printf("\nmmap Demonstration\n");
+	printf("\nmmap Demonstration\n\n");
 
 	int fd;
 	struct stat mystat;
