@@ -6,7 +6,8 @@ A POINTER IS AN INTEGER VARIABLE THAT JUST POINTS TO A LOCATION OF MEMORY.
 
 When a type is provided all that is being indicated is that the the memory at the address that the pointer contains is of that type.
 
-Dereferencing a pointer - accessing the data.
+*ptr - dereferencing a pointer - accessing the data.
+&num - address of operator - return that address of the variable or item.
 
 void* - a typeless pointer; types are for convenience but do not change what a pointer is.
 
